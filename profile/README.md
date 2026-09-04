@@ -15,8 +15,8 @@ Ready to build with us? Check out our general contributing guidelines as well as
 
 ## Get Involved
 
-- **Learn More: Visit https://atlas-equity.com to learn more about Atlas Equity.
+- **Learn More**: Visit https://atlas-equity.com to learn more about Atlas Equity.
 
-- **Impact: Read about our global impact and annual reports.
+- **Impact**: Read about our global impact and annual reports.
 
-- **Support: Consider partnering with us or reaching out to our founder's office to support our mission.
+- **Support**: Consider partnering with us or reaching out to our founder's office to support our mission.
